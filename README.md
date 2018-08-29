@@ -1,5 +1,8 @@
-# jekyll_demo
+# Linux grep命令
 
+``` bash
+grep [ OPTIONS ] PATTERN [ FILE ...]
+```
 
 # 欢迎使用Markdown编辑器写博客
 
